@@ -1,0 +1,361 @@
+TCDB
+v7
+r0
+t296918860.976273
+cCheck dependencies
+cProcessInfoPlistFile "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/Info.plist" CDB-Info.plist
+cCpResource build/Debug-iphonesimulator/CDB.app/two-tri.png two-tri.png
+cCpResource build/Debug-iphonesimulator/CDB.app/rect-tri.png rect-tri.png
+cCpResource build/Debug-iphonesimulator/CDB.app/rect-elli.png rect-elli.png
+cCpResource build/Debug-iphonesimulator/CDB.app/ellipse.png ellipse.png
+cCpResource build/Debug-iphonesimulator/CDB.app/rect.png rect.png
+cCpResource build/Debug-iphonesimulator/CDB.app/tri.png tri.png
+cProcessPCH /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch.gch CDB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/main.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBAppDelegate.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDAUIView.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDAUIView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBViewController.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB" normal i386
+cGenerateDSYMFile "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app.dSYM" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB"
+cTouch "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/CDB_Prefix.pch
+c0000000049FB81C000000000000000AF
+t1241219520
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDAUIView.m
+c000000004A5A2A15000000000000063A
+t1247422997
+s1594
+i"CDBUIView.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBAppDelegate.h
+c000000004A5A2A15000000000000066D
+t1247422997
+s1645
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBAppDelegate.m
+c000000004A5A2A150000000000000E56
+t1247422997
+s3670
+i"CDBAppDelegate.h"
+i"CDBViewController.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBUIView.h
+c000000004A5A2A150000000000000608
+t1247422997
+s1544
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBViewController.h
+c000000004A5A2A15000000000000062C
+t1247422997
+s1580
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBViewController.m
+c000000004A5A2A15000000000000081C
+t1247422997
+s2076
+i"CDBViewController.h"
+i"CDBUIView.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDAUIView.o
+t1275226060
+s9940
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDB.LinkFileList
+c000000004C0267CB0000000000000228
+t1275226059
+s552
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBAppDelegate.o
+t1275226060
+s41344
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBViewController.o
+t1275226060
+s32344
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/main.o
+t1275226060
+s6152
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app
+t1275226060
+s374
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app.dSYM
+t1275226060
+s102
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB
+t1275226060
+s20516
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/Info.plist
+t1275226059
+s542
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/PkgInfo
+t1275226059
+s8
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/ellipse.png
+t1275226059
+s173
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/rect-elli.png
+t1275226059
+s219
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/rect-tri.png
+t1275226059
+s219
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/rect.png
+t1275226059
+s142
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/tri.png
+t1275226059
+s226
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/two-tri.png
+t1275226059
+s215
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/ellipse.png
+c0000000048867A9400000000000000AD
+t1216772756
+s173
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/main.m
+c000000004A5A2A15000000000000063F
+t1247422997
+s1599
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect-elli.png
+c0000000048867B3C00000000000000DB
+t1216772924
+s219
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect-tri.png
+c0000000048867BB900000000000000DB
+t1216773049
+s219
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect.png
+c0000000048867A1A000000000000008E
+t1216772634
+s142
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/tri.png
+c000000004886798300000000000000E2
+t1216772483
+s226
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/two-tri.png
+c0000000048867CC700000000000000D7
+t1216773319
+s215
+
+N/var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch.gch
+t1275226060
+s12952976
+
+NCDB-Info.plist
+c000000004A10B4D80000000000000356
+t1242608856
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296918859#296918859#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDAUIView.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDAUIView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918860.689442
+e296918860.751469
+r1
+xCompileC
+xbuild/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDAUIView.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDAUIView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDAUIView.m296918860#296918860#0(0"0(0#0#75"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDAUIView.m4300911832#2004"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDAUIView.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDAUIView.o"0#
+
+CCompileC build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBAppDelegate.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918860.637388
+e296918860.727084
+r1
+xCompileC
+xbuild/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBAppDelegate.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBAppDelegate.m296918860#296918860#0(0"0(0#0#80"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBAppDelegate.m4300911832#2014"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBAppDelegate.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBAppDelegate.o"0#
+
+CCompileC build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBViewController.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918860.727209
+e296918860.792241
+r1
+xCompileC
+xbuild/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBViewController.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBViewController.m296918860#296918860#0(0"0(0#0#83"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBViewController.m4300911832#2020"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/Classes/CDBViewController.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDBViewController.o"0#
+
+CCompileC build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/main.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918860.585072
+e296918860.689323
+r1
+xCompileC
+xbuild/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/main.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/main.m296918860#296918860#0(0"0(0#0#62"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/main.m4300911832#1986"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/main.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/main.o"0#
+
+CCpResource build/Debug-iphonesimulator/CDB.app/ellipse.png ellipse.png
+s296918859.086446
+e296918859.460772
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CDB.app/ellipse.png
+xellipse.png
+lSLF07#2@16"Copy ellipse.png296918859#296918859#0(0"0(0#0#67"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/ellipse.png4300911832#508"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/ellipse.png" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"0#
+
+CCpResource build/Debug-iphonesimulator/CDB.app/rect-elli.png rect-elli.png
+s296918859.085848
+e296918859.458763
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CDB.app/rect-elli.png
+xrect-elli.png
+lSLF07#2@18"Copy rect-elli.png296918859#296918859#0(0"0(0#0#69"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect-elli.png4300911832#510"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect-elli.png" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"0#
+
+CCpResource build/Debug-iphonesimulator/CDB.app/rect-tri.png rect-tri.png
+s296918859.085238
+e296918859.456414
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CDB.app/rect-tri.png
+xrect-tri.png
+lSLF07#2@17"Copy rect-tri.png296918859#296918859#0(0"0(0#0#68"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect-tri.png4300911832#509"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect-tri.png" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"0#
+
+CCpResource build/Debug-iphonesimulator/CDB.app/rect.png rect.png
+s296918859.087055
+e296918859.456576
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CDB.app/rect.png
+xrect.png
+lSLF07#2@13"Copy rect.png296918859#296918859#0(0"0(0#0#64"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect.png4300911832#505"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/rect.png" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"0#
+
+CCpResource build/Debug-iphonesimulator/CDB.app/tri.png tri.png
+s296918859.087710
+e296918859.456716
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CDB.app/tri.png
+xtri.png
+lSLF07#2@12"Copy tri.png296918859#296918859#0(0"0(0#0#63"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/tri.png4300911832#504"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/tri.png" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"0#
+
+CCpResource build/Debug-iphonesimulator/CDB.app/two-tri.png two-tri.png
+s296918859.084472
+e296918859.456222
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CDB.app/two-tri.png
+xtwo-tri.png
+lSLF07#2@16"Copy two-tri.png296918859#296918859#0(0"0(0#0#67"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/two-tri.png4300911832#508"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/two-tri.png" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"0#
+
+CGenerateDSYMFile "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app.dSYM" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB"
+s296918860.884984
+e296918860.973095
+r1
+xGenerateDSYMFile
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app.dSYM
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/CDB.app.dSYM build/Debug-iphonesimulator/CDB.app/CDB296918860#296918860#0(0"0(0#0#95"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB4300911832#428"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app.dSYM"0#
+
+CLd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB" normal i386
+s296918860.792346
+e296918860.884875
+r1
+xLd
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB
+xnormal
+xi386
+lSLF07#2@100"Link /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB296918860#296918860#0(0"0(0#0#0"4300911832#937"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator" -filelist "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/Objects-normal/i386/CDB.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/CDB"0#
+
+CProcessInfoPlistFile "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/Info.plist" CDB-Info.plist
+s296918859.065528
+e296918859.084375
+r1
+xProcessInfoPlistFile
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/Info.plist
+xCDB-Info.plist
+lSLF07#2@22"Process CDB-Info.plist296918859#296918859#0(0"0(0#0#70"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/CDB-Info.plist4300911832#524"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CDB-Info.plist -genpkginfo "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app/Info.plist"0#
+
+CProcessPCH /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch.gch CDB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918859.460892
+e296918860.584856
+r1
+xProcessPCH
+x/var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch.gch
+xCDB_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile CDB_Prefix.pch296918859#296918860#0(0"0(0#0#70"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/CDB_Prefix.pch4300911832#1863"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/CDB-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/CDB.build/Debug-iphonesimulator/CDB.build/DerivedSources" -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/CDB_Prefix.pch" -o /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDB_Prefix-fcothssgfcrmuhdanqyxljtfgqee/CDB_Prefix.pch.gch0#
+
+CTouch "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"
+s296918860.973189
+e296918860.976233
+r1
+xTouch
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app
+lSLF07#2@97"Touch /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app296918860#296918860#0(0"0(0#0#0"4300911832#312"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDB/build/Debug-iphonesimulator/CDB.app"0#
+

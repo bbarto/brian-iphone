@@ -1,0 +1,292 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SwipeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 698}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1580}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SwipeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 800}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1933}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Swipe */ = {
+		activeExec = 0;
+		executables = (
+			41339CBC0FAA8644002D3F24 /* Swipe */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 41339CBC0FAA8644002D3F24 /* Swipe */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Swipe */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Swipe */,
+		);
+		codeSenseManager = 41339CC00FAA8662002D3F24 /* Code sense */;
+		executables = (
+			41339CBC0FAA8644002D3F24 /* Swipe */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					878,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					838,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274158712;
+			PBXWorkspaceStateSaveDate = 274158712;
+		};
+		perUserProjectItems = {
+			41339CDD0FAA870D002D3F24 /* PBXTextBookmark */ = 41339CDD0FAA870D002D3F24 /* PBXTextBookmark */;
+			41339CDE0FAA870D002D3F24 /* PBXTextBookmark */ = 41339CDE0FAA870D002D3F24 /* PBXTextBookmark */;
+			41339CDF0FAA870D002D3F24 /* PBXTextBookmark */ = 41339CDF0FAA870D002D3F24 /* PBXTextBookmark */;
+			41339CE00FAA870D002D3F24 /* PBXTextBookmark */ = 41339CE00FAA870D002D3F24 /* PBXTextBookmark */;
+			41339CE10FAA870D002D3F24 /* PBXTextBookmark */ = 41339CE10FAA870D002D3F24 /* PBXTextBookmark */;
+			41564AC7100A610F002DFF1A /* PBXTextBookmark */ = 41564AC7100A610F002DFF1A /* PBXTextBookmark */;
+			41564AC8100A610F002DFF1A /* PBXTextBookmark */ = 41564AC8100A610F002DFF1A /* PBXTextBookmark */;
+			41564AC9100A610F002DFF1A /* PBXTextBookmark */ = 41564AC9100A610F002DFF1A /* PBXTextBookmark */;
+			41564ACA100A610F002DFF1A /* PBXTextBookmark */ = 41564ACA100A610F002DFF1A /* PBXTextBookmark */;
+			41DB2D6E0FB5ED5A00472604 /* PlistBookmark */ = 41DB2D6E0FB5ED5A00472604 /* PlistBookmark */;
+			41DB2D730FB5ED5A00472604 /* PlistBookmark */ = 41DB2D730FB5ED5A00472604 /* PlistBookmark */;
+			41DFC332100A6D14002CCE35 /* PBXTextBookmark */ = 41DFC332100A6D14002CCE35 /* PBXTextBookmark */;
+			41E1C4001057548200C89BB3 /* PBXTextBookmark */ = 41E1C4001057548200C89BB3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 41339CBF0FAA8662002D3F24 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 496}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1602}";
+		};
+	};
+	41339CBC0FAA8644002D3F24 /* Swipe */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Swipe;
+		sourceDirectories = (
+		);
+	};
+	41339CBF0FAA8662002D3F24 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	41339CC00FAA8662002D3F24 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	41339CC10FAA8678002D3F24 /* SwipeDemoView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 698}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1551}";
+		};
+	};
+	41339CC20FAA8678002D3F24 /* SwipeDemoView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 1904}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1986}";
+		};
+	};
+	41339CDD0FAA870D002D3F24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 1558;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	41339CDE0FAA870D002D3F24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SwipeAppDelegate.m */;
+		name = "SwipeAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 0;
+	};
+	41339CDF0FAA870D002D3F24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SwipeAppDelegate.h */;
+		name = "SwipeAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	41339CE00FAA870D002D3F24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41339CC20FAA8678002D3F24 /* SwipeDemoView.m */;
+		name = "SwipeDemoView.m: 1";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 0;
+	};
+	41339CE10FAA870D002D3F24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41339CC10FAA8678002D3F24 /* SwipeDemoView.h */;
+		name = "SwipeDemoView.h: 1";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	41564AC7100A610F002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41339CC10FAA8678002D3F24 /* SwipeDemoView.h */;
+		name = "SwipeDemoView.h: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1551;
+		vrLoc = 0;
+	};
+	41564AC8100A610F002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41339CC20FAA8678002D3F24 /* SwipeDemoView.m */;
+		name = "SwipeDemoView.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1986;
+		vrLoc = 0;
+	};
+	41564AC9100A610F002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SwipeAppDelegate.h */;
+		name = "SwipeAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1580;
+		vrLoc = 0;
+	};
+	41564ACA100A610F002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SwipeAppDelegate.m */;
+		name = "SwipeAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1933;
+		vrLoc = 0;
+	};
+	41DB2D6E0FB5ED5A00472604 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Swipe-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/ali/3.0 Book Programs/Swipe/Swipe-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	41DB2D730FB5ED5A00472604 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Swipe-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/ali/3.0 Book Programs/Swipe/Swipe-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	41DFC332100A6D14002CCE35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1602;
+		vrLoc = 0;
+	};
+	41E1C4001057548200C89BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1602;
+		vrLoc = 0;
+	};
+}

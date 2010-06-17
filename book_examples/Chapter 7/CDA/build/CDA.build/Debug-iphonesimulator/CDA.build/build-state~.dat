@@ -1,0 +1,247 @@
+TCDA
+v7
+r0
+t296836184.475895
+cCheck dependencies
+cProcessInfoPlistFile "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/Info.plist" CDA-Info.plist
+cProcessPCH /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch.gch CDA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/main.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAAppDelegate.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAUIView.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAUIView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAViewController.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA" normal i386
+cGenerateDSYMFile "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app.dSYM" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA"
+cTouch "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/CDA_Prefix.pch
+c0000000049FB80AB00000000000000AF
+t1241219243
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAAppDelegate.h
+c000000004A5A29F900000000000005E8
+t1247422969
+s1512
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAAppDelegate.m
+c000000004A5A29F9000000000000086B
+t1247422969
+s2155
+i"CDAAppDelegate.h"
+i"CDAViewController.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAUIView.h
+c000000004A5A29F90000000000000608
+t1247422969
+s1544
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAUIView.m
+c000000004A5A29F90000000000000639
+t1247422969
+s1593
+i"CDAUIView.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAViewController.h
+c000000004A5A29F900000000000005F9
+t1247422969
+s1529
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAViewController.m
+c000000004A5A29F900000000000009DA
+t1247422969
+s2522
+i"CDAViewController.h"
+i"CDAUIView.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDA.LinkFileList
+c000000004C0124D70000000000000228
+t1275143383
+s552
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAAppDelegate.o
+t1275143384
+s34816
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAUIView.o
+t1275143384
+s9940
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAViewController.o
+t1275143384
+s32576
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/main.o
+t1275143384
+s6152
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app
+t1275143384
+s170
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app.dSYM
+t1275143384
+s102
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA
+t1275143384
+s20264
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/Info.plist
+t1275143383
+s542
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/PkgInfo
+t1275143383
+s8
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/main.m
+c000000004A5A29F90000000000000640
+t1247422969
+s1600
+
+N/var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch.gch
+t1275143383
+s12952976
+
+NCDA-Info.plist
+c000000004A10B4BB0000000000000356
+t1242608827
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296836183#296836183#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAAppDelegate.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296836183.963123
+e296836184.064278
+r1
+xCompileC
+xbuild/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAAppDelegate.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAAppDelegate.m296836183#296836184#0(0"0(0#0#80"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAAppDelegate.m4300911832#2014"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAAppDelegate.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAAppDelegate.o"0#
+
+CCompileC build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAUIView.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAUIView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296836184.062938
+e296836184.130554
+r1
+xCompileC
+xbuild/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAUIView.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAUIView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAUIView.m296836184#296836184#0(0"0(0#0#75"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAUIView.m4300911832#2004"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAUIView.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAUIView.o"0#
+
+CCompileC build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAViewController.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296836184.064373
+e296836184.137255
+r1
+xCompileC
+xbuild/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAViewController.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAViewController.m296836184#296836184#0(0"0(0#0#83"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAViewController.m4300911832#2020"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/Classes/CDAViewController.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDAViewController.o"0#
+
+CCompileC build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/main.o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296836183.958432
+e296836184.062564
+r1
+xCompileC
+xbuild/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/main.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/main.m296836183#296836184#0(0"0(0#0#62"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/main.m4300911832#1986"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/main.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/main.o"0#
+
+CGenerateDSYMFile "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app.dSYM" "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA"
+s296836184.457058
+e296836184.472827
+r1
+xGenerateDSYMFile
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app.dSYM
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/CDA.app.dSYM build/Debug-iphonesimulator/CDA.app/CDA296836184#296836184#0(0"0(0#0#95"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA4300911832#428"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app.dSYM"0#
+
+CLd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA" normal i386
+s296836184.137356
+e296836184.456944
+r1
+xLd
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA
+xnormal
+xi386
+lSLF07#2@100"Link /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA296836184#296836184#0(0"0(0#0#0"4300911832#937"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator" -filelist "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/Objects-normal/i386/CDA.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/CDA"0#
+
+CProcessInfoPlistFile "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/Info.plist" CDA-Info.plist
+s296836183.189568
+e296836183.193426
+r1
+xProcessInfoPlistFile
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/Info.plist
+xCDA-Info.plist
+lSLF07#2@22"Process CDA-Info.plist296836183#296836183#0(0"0(0#0#70"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/CDA-Info.plist4300911832#524"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CDA-Info.plist -genpkginfo "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app/Info.plist"0#
+
+CProcessPCH /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch.gch CDA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296836183.193536
+e296836183.958264
+r1
+xProcessPCH
+x/var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch.gch
+xCDA_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile CDA_Prefix.pch296836183#296836183#0(0"0(0#0#70"/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/CDA_Prefix.pch4300911832#1863"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/CDA-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/CDA.build/Debug-iphonesimulator/CDA.build/DerivedSources" -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/CDA_Prefix.pch" -o /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CDA_Prefix-czvamxgsuvttisfbkqdefbdqjnig/CDA_Prefix.pch.gch0#
+
+CTouch "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app"
+s296836184.472922
+e296836184.475857
+r1
+xTouch
+x/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app
+lSLF07#2@97"Touch /Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app296836184#296836184#0(0"0(0#0#0"4300911832#312"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 7/CDA/build/Debug-iphonesimulator/CDA.app"0#
+

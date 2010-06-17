@@ -1,0 +1,218 @@
+TFlipAnimation
+v7
+r0
+t296918240.988041
+cCheck dependencies
+cProcessInfoPlistFile "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/Info.plist" FlipAnimation-Info.plist
+cProcessPCH /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlipAnimation_Prefix-hikozzzgomzyuchaxzoiqqlcknze/FlipAnimation_Prefix.pch.gch FlipAnimation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/main.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/FlipAnimationAppDelegate.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/FlipAnimationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/MainViewController.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation" normal i386
+cGenerateDSYMFile "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app.dSYM" "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation"
+cTouch "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/FlipAnimationAppDelegate.h
+c000000004A5A28DC0000000000000675
+t1247422684
+s1653
+i"MainViewController.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/FlipAnimationAppDelegate.m
+c000000004A5A28DC000000000000073D
+t1247422684
+s1853
+i"FlipAnimationAppDelegate.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/MainViewController.h
+c000000004A5A28DC00000000000005A0
+t1247422684
+s1440
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/MainViewController.m
+c000000004A5A28DC0000000000000AB8
+t1247422684
+s2744
+i"MainViewController.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/FlipAnimation_Prefix.pch
+c0000000049C67FCF00000000000000C3
+t1237745615
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app
+t1275225440
+s170
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app.dSYM
+t1275225440
+s102
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation
+t1275225440
+s20300
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/Info.plist
+t1275225439
+s582
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/PkgInfo
+t1275225439
+s8
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/FlipAnimation.LinkFileList
+c000000004C02655F0000000000000205
+t1275225439
+s517
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/FlipAnimationAppDelegate.o
+t1275225440
+s38836
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/MainViewController.o
+t1275225440
+s35156
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/main.o
+t1275225440
+s6184
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/main.m
+c000000004A5A28DC0000000000000663
+t1247422684
+s1635
+i<UIKit/UIKit.h>
+
+N/var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlipAnimation_Prefix-hikozzzgomzyuchaxzoiqqlcknze/FlipAnimation_Prefix.pch.gch
+t1275225440
+s12952976
+
+NFlipAnimation-Info.plist
+c000000004A05B32B0000000000000356
+t1241887531
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296918239#296918239#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/FlipAnimationAppDelegate.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/FlipAnimationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918240.469288
+e296918240.576978
+r1
+xCompileC
+xbuild/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/FlipAnimationAppDelegate.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/FlipAnimationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/FlipAnimationAppDelegate.m296918240#296918240#0(0"0(0#0#100"/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/FlipAnimationAppDelegate.m4300911832#2344"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlipAnimation_Prefix-hikozzzgomzyuchaxzoiqqlcknze/FlipAnimation_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/FlipAnimationAppDelegate.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/FlipAnimationAppDelegate.o"0#
+
+CCompileC build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/MainViewController.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918240.553253
+e296918240.641050
+r1
+xCompileC
+xbuild/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/MainViewController.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/MainViewController.m296918240#296918240#0(0"0(0#0#94"/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/MainViewController.m4300911832#2332"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlipAnimation_Prefix-hikozzzgomzyuchaxzoiqqlcknze/FlipAnimation_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/Classes/MainViewController.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/MainViewController.o"0#
+
+CCompileC build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/main.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918240.467795
+e296918240.553141
+r1
+xCompileC
+xbuild/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/main.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/main.m296918240#296918240#0(0"0(0#0#72"/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/main.m4300911832#2296"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlipAnimation_Prefix-hikozzzgomzyuchaxzoiqqlcknze/FlipAnimation_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/main.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/main.o"0#
+
+CGenerateDSYMFile "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app.dSYM" "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation"
+s296918240.968416
+e296918240.985131
+r1
+xGenerateDSYMFile
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app.dSYM
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/FlipAnimation.app.dSYM build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation296918240#296918240#0(0"0(0#0#125"/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation4300911832#488"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app.dSYM"0#
+
+CLd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation" normal i386
+s296918240.641152
+e296918240.968163
+r1
+xLd
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation
+xnormal
+xi386
+lSLF07#2@130"Link /Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation296918240#296918240#0(0"0(0#0#0"4300911832#1037"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator" -filelist "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/Objects-normal/i386/FlipAnimation.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/FlipAnimation"0#
+
+CProcessInfoPlistFile "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/Info.plist" FlipAnimation-Info.plist
+s296918239.179244
+e296918239.182759
+r1
+xProcessInfoPlistFile
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/Info.plist
+xFlipAnimation-Info.plist
+lSLF07#2@32"Process FlipAnimation-Info.plist296918239#296918239#0(0"0(0#0#90"/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/FlipAnimation-Info.plist4300911832#584"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlipAnimation-Info.plist -genpkginfo "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app/Info.plist"0#
+
+CProcessPCH /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlipAnimation_Prefix-hikozzzgomzyuchaxzoiqqlcknze/FlipAnimation_Prefix.pch.gch FlipAnimation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296918239.182878
+e296918240.467677
+r1
+xProcessPCH
+x/var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlipAnimation_Prefix-hikozzzgomzyuchaxzoiqqlcknze/FlipAnimation_Prefix.pch.gch
+xFlipAnimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile FlipAnimation_Prefix.pch296918239#296918240#0(0"0(0#0#90"/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/FlipAnimation_Prefix.pch4300911832#2153"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/FlipAnimation-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/FlipAnimation.build/Debug-iphonesimulator/FlipAnimation.build/DerivedSources" -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/FlipAnimation_Prefix.pch" -o /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlipAnimation_Prefix-hikozzzgomzyuchaxzoiqqlcknze/FlipAnimation_Prefix.pch.gch0#
+
+CTouch "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app"
+s296918240.985242
+e296918240.987999
+r1
+xTouch
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app
+lSLF07#2@117"Touch /Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app296918240#296918240#0(0"0(0#0#0"4300911832#342"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/FlipAnimation/build/Debug-iphonesimulator/FlipAnimation.app"0#
+

@@ -1,0 +1,217 @@
+TSwipe
+v7
+r0
+t296700717.294861
+cCheck dependencies
+cProcessInfoPlistFile "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist" Swipe-Info.plist
+cProcessPCH /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swipe_Prefix-fmoykwxpxikdzmghvwvsdpwdxbnb/Swipe_Prefix.pch.gch Swipe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeDemoView.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeDemoView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe" normal i386
+cGenerateDSYMFile "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app.dSYM" "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe"
+cTouch "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeAppDelegate.h
+c000000004A5A298D000000000000062C
+t1247422861
+s1580
+i"SwipeDemoView.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeAppDelegate.m
+c000000004A5A298D00000000000007A8
+t1247422861
+s1960
+i"SwipeAppDelegate.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeDemoView.h
+c000000004A5A298D000000000000060F
+t1247422861
+s1551
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeDemoView.m
+c000000004A5A298D0000000000000FC4
+t1247422861
+s4036
+i"SwipeDemoView.h"
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Swipe_Prefix.pch
+c0000000049FA4EC400000000000000B3
+t1241140932
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app
+t1275007917
+s170
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app.dSYM
+t1275007917
+s102
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist
+t1275007915
+s550
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/PkgInfo
+t1275007915
+s8
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe
+t1275007917
+s24108
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/Swipe.LinkFileList
+c000000004BFF13AB00000000000001B0
+t1275007915
+s432
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o
+t1275007917
+s19124
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeDemoView.o
+t1275007917
+s19004
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o
+t1275007917
+s6160
+
+N/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/main.m
+c000000004A5A298D0000000000000642
+t1247422861
+s1602
+
+N/var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swipe_Prefix-fmoykwxpxikdzmghvwvsdpwdxbnb/Swipe_Prefix.pch.gch
+t1275007916
+s12952976
+
+NSwipe-Info.plist
+c000000004A05B5D70000000000000356
+t1241888215
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296700715#296700715#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296700716.996640
+e296700717.080565
+r1
+xCompileC
+xbuild/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeAppDelegate.m296700716#296700717#0(0"0(0#0#84"/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeAppDelegate.m4300911832#2080"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swipe_Prefix-fmoykwxpxikdzmghvwvsdpwdxbnb/Swipe_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeAppDelegate.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o"0#
+
+CCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeDemoView.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeDemoView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296700717.053870
+e296700717.145874
+r1
+xCompileC
+xbuild/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeDemoView.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeDemoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeDemoView.m296700717#296700717#0(0"0(0#0#81"/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeDemoView.m4300911832#2074"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swipe_Prefix-fmoykwxpxikdzmghvwvsdpwdxbnb/Swipe_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Classes/SwipeDemoView.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeDemoView.o"0#
+
+CCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296700716.994705
+e296700717.053642
+r1
+xCompileC
+xbuild/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/main.m296700716#296700717#0(0"0(0#0#64"/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/main.m4300911832#2048"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources" -include /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swipe_Prefix-fmoykwxpxikdzmghvwvsdpwdxbnb/Swipe_Prefix.pch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/main.m" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o"0#
+
+CGenerateDSYMFile "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app.dSYM" "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe"
+s296700717.228880
+e296700717.276593
+r1
+xGenerateDSYMFile
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app.dSYM
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Swipe.app.dSYM build/Debug-iphonesimulator/Swipe.app/Swipe296700717#296700717#0(0"0(0#0#101"/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe4300911832#440"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe" -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app.dSYM"0#
+
+CLd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe" normal i386
+s296700717.145973
+e296700717.228758
+r1
+xLd
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe
+xnormal
+xi386
+lSLF07#2@106"Link /Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe296700717#296700717#0(0"0(0#0#0"4300911832#957"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator" -filelist "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/Swipe.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe"0#
+
+CProcessInfoPlistFile "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist" Swipe-Info.plist
+s296700715.530134
+e296700715.544600
+r1
+xProcessInfoPlistFile
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist
+xSwipe-Info.plist
+lSLF07#2@24"Process Swipe-Info.plist296700715#296700715#0(0"0(0#0#74"/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Swipe-Info.plist4300911832#536"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Swipe-Info.plist -genpkginfo "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist"0#
+
+CProcessPCH /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swipe_Prefix-fmoykwxpxikdzmghvwvsdpwdxbnb/Swipe_Prefix.pch.gch Swipe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296700715.544729
+e296700716.994511
+r1
+xProcessPCH
+x/var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swipe_Prefix-fmoykwxpxikdzmghvwvsdpwdxbnb/Swipe_Prefix.pch.gch
+xSwipe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Swipe_Prefix.pch296700715#296700716#0(0"0(0#0#74"/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Swipe_Prefix.pch4300911832#1921"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-generated-files.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-own-target-headers.hmap" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-all-target-headers.hmap" -iquote "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-project-headers.hmap" "-F/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/include" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources/i386" "-I/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources" -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/Swipe_Prefix.pch" -o /var/folders/6j/6j8aLNlaEEy2r-UGFBNQlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swipe_Prefix-fmoykwxpxikdzmghvwvsdpwdxbnb/Swipe_Prefix.pch.gch0#
+
+CTouch "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app"
+s296700717.276700
+e296700717.294796
+r1
+xTouch
+x/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app
+lSLF07#2@101"Touch /Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app296700717#296700717#0(0"0(0#0#0"4300911832#318"    cd "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/brian/Desktop/iphone/book_examples/Chapter 5/Swipe/build/Debug-iphonesimulator/Swipe.app"0#
+

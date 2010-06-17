@@ -1,0 +1,270 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FlipAnimationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {814, 700}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1653}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FlipAnimationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {814, 736}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1848}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FlipAnimation */ = {
+		activeExec = 0;
+		executables = (
+			41237D000F76B74F003E9BA2 /* FlipAnimation */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 41237D000F76B74F003E9BA2 /* FlipAnimation */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FlipAnimation */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FlipAnimation */,
+		);
+		codeSenseManager = 41237D070F76B76D003E9BA2 /* Code sense */;
+		executables = (
+			41237D000F76B74F003E9BA2 /* FlipAnimation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					636,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274158602;
+			PBXWorkspaceStateSaveDate = 274158602;
+		};
+		perUserProjectItems = {
+			41564A25100A605E002DFF1A /* PBXTextBookmark */ = 41564A25100A605E002DFF1A /* PBXTextBookmark */;
+			41564A26100A605E002DFF1A /* PBXTextBookmark */ = 41564A26100A605E002DFF1A /* PBXTextBookmark */;
+			41564A27100A605E002DFF1A /* PBXTextBookmark */ = 41564A27100A605E002DFF1A /* PBXTextBookmark */;
+			41564A28100A605E002DFF1A /* PBXTextBookmark */ = 41564A28100A605E002DFF1A /* PBXTextBookmark */;
+			41564A2A100A605E002DFF1A /* PBXTextBookmark */ = 41564A2A100A605E002DFF1A /* PBXTextBookmark */;
+			41564A2B100A605E002DFF1A /* PBXTextBookmark */ = 41564A2B100A605E002DFF1A /* PBXTextBookmark */;
+			41564A2D100A605E002DFF1A /* PBXTextBookmark */ = 41564A2D100A605E002DFF1A /* PBXTextBookmark */;
+			41564A2E100A605E002DFF1A /* PBXTextBookmark */ = 41564A2E100A605E002DFF1A /* PBXTextBookmark */;
+			41DB2BD20FB5EAB500472604 /* PlistBookmark */ = 41DB2BD20FB5EAB500472604 /* PlistBookmark */;
+			41DB2BD40FB5EAB500472604 /* PBXTextBookmark */ = 41DB2BD40FB5EAB500472604 /* PBXTextBookmark */;
+			41DB2BD50FB5EAB500472604 /* PlistBookmark */ = 41DB2BD50FB5EAB500472604 /* PlistBookmark */;
+			41DFC2BF100A6CAB002CCE35 /* PBXTextBookmark */ = 41DFC2BF100A6CAB002CCE35 /* PBXTextBookmark */;
+			41E1C3371057540F00C89BB3 /* PBXTextBookmark */ = 41E1C3371057540F00C89BB3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 41237D060F76B76D003E9BA2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {814, 700}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1635}";
+		};
+	};
+	41237D000F76B74F003E9BA2 /* FlipAnimation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FlipAnimation;
+		sourceDirectories = (
+		);
+	};
+	41237D060F76B76D003E9BA2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	41237D070F76B76D003E9BA2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	41237D080F76B775003E9BA2 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {814, 700}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1440}";
+		};
+	};
+	41237D090F76B775003E9BA2 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {814, 1072}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 2101}";
+		};
+	};
+	41564A25100A605E002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FlipAnimationAppDelegate.h */;
+		name = "FlipAnimationAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1653;
+		vrLoc = 0;
+	};
+	41564A26100A605E002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FlipAnimationAppDelegate.m */;
+		name = "FlipAnimationAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1848;
+		vrLoc = 0;
+	};
+	41564A27100A605E002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41237D080F76B775003E9BA2 /* MainViewController.h */;
+		name = "MainViewController.h: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1440;
+		vrLoc = 0;
+	};
+	41564A28100A605E002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41237D090F76B775003E9BA2 /* MainViewController.m */;
+		name = "MainViewController.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 2101;
+		vrLoc = 0;
+	};
+	41564A2A100A605E002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1635;
+		vrLoc = 0;
+	};
+	41564A2B100A605E002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FlipAnimationAppDelegate.h */;
+		name = "FlipAnimationAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1653;
+		vrLoc = 0;
+	};
+	41564A2D100A605E002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41237D080F76B775003E9BA2 /* MainViewController.h */;
+		name = "MainViewController.h: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1440;
+		vrLoc = 0;
+	};
+	41564A2E100A605E002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41237D090F76B775003E9BA2 /* MainViewController.m */;
+		name = "MainViewController.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 2101;
+		vrLoc = 0;
+	};
+	41DB2BD20FB5EAB500472604 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FlipAnimation-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/ali/3.0 Book Programs/FlipAnimation/FlipAnimation-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	41DB2BD40FB5EAB500472604 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FlipAnimationAppDelegate.m */;
+		name = "FlipAnimationAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 1844;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	41DB2BD50FB5EAB500472604 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FlipAnimation-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/ali/3.0 Book Programs/FlipAnimation/FlipAnimation-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	41DFC2BF100A6CAB002CCE35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1635;
+		vrLoc = 0;
+	};
+	41E1C3371057540F00C89BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1635;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,312 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ScrollViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 811}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1661}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScrollViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 811}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1887}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ScrollView */ = {
+		activeExec = 0;
+		executables = (
+			41EF83520FA5220B00036E93 /* ScrollView */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 41EF83520FA5220B00036E93 /* ScrollView */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScrollView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ScrollView */,
+		);
+		codeSenseManager = 41EF835C0FA5222A00036E93 /* Code sense */;
+		executables = (
+			41EF83520FA5220B00036E93 /* ScrollView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					794,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274159356;
+			PBXWorkspaceStateSaveDate = 274159356;
+		};
+		perUserProjectItems = {
+			41564C3E100A62E6002DFF1A /* PBXTextBookmark */ = 41564C3E100A62E6002DFF1A /* PBXTextBookmark */;
+			41564C3F100A62E6002DFF1A /* PBXTextBookmark */ = 41564C3F100A62E6002DFF1A /* PBXTextBookmark */;
+			41564C40100A62E6002DFF1A /* PBXTextBookmark */ = 41564C40100A62E6002DFF1A /* PBXTextBookmark */;
+			41564C41100A62E6002DFF1A /* PBXTextBookmark */ = 41564C41100A62E6002DFF1A /* PBXTextBookmark */;
+			41C4AFD00FADFB7D00EDBB46 /* PBXTextBookmark */ = 41C4AFD00FADFB7D00EDBB46 /* PBXTextBookmark */;
+			41DB2D3A0FB5ED0800472604 /* PlistBookmark */ = 41DB2D3A0FB5ED0800472604 /* PlistBookmark */;
+			41DB2D3F0FB5ED0800472604 /* PlistBookmark */ = 41DB2D3F0FB5ED0800472604 /* PlistBookmark */;
+			41DFC447100A6E69002CCE35 /* PBXTextBookmark */ = 41DFC447100A6E69002CCE35 /* PBXTextBookmark */;
+			41E1C5531057571300C89BB3 /* PBXTextBookmark */ = 41E1C5531057571300C89BB3 /* PBXTextBookmark */;
+			41EF83BB0FA5305600036E93 /* PBXTextBookmark */ = 41EF83BB0FA5305600036E93 /* PBXTextBookmark */;
+			41EF83BE0FA5305600036E93 /* PBXTextBookmark */ = 41EF83BE0FA5305600036E93 /* PBXTextBookmark */;
+			41EF83BF0FA5305600036E93 /* PBXTextBookmark */ = 41EF83BF0FA5305600036E93 /* PBXTextBookmark */;
+			41EF83C10FA5305600036E93 /* PBXTextBookmark */ = 41EF83C10FA5305600036E93 /* PBXTextBookmark */;
+			41EF83C30FA5305600036E93 /* PBXTextBookmark */ = 41EF83C30FA5305600036E93 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 41EF835B0FA5222A00036E93 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 558}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1607}";
+		};
+	};
+	41564C3E100A62E6002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScrollViewAppDelegate.h */;
+		name = "ScrollViewAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1661;
+		vrLoc = 0;
+	};
+	41564C3F100A62E6002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScrollViewAppDelegate.m */;
+		name = "ScrollViewAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1887;
+		vrLoc = 0;
+	};
+	41564C40100A62E6002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41EF83660FA5226C00036E93 /* MyViewController.h */;
+		name = "MyViewController.h: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 0;
+	};
+	41564C41100A62E6002DFF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41EF83670FA5226C00036E93 /* MyViewController.m */;
+		name = "MyViewController.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 2428;
+		vrLoc = 0;
+	};
+	41C4AFD00FADFB7D00EDBB46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41EF83670FA5226C00036E93 /* MyViewController.m */;
+		name = "MyViewController.m: 17";
+		rLen = 0;
+		rLoc = 1962;
+		rType = 0;
+		vrLen = 1320;
+		vrLoc = 0;
+	};
+	41DB2D3A0FB5ED0800472604 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ScrollView-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/ali/3.0 Book Programs/ScrollView/ScrollView-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	41DB2D3F0FB5ED0800472604 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ScrollView-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/ali/3.0 Book Programs/ScrollView/ScrollView-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	41DFC447100A6E69002CCE35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1607;
+		vrLoc = 0;
+	};
+	41E1C5531057571300C89BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 23";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 1607;
+		vrLoc = 0;
+	};
+	41EF83520FA5220B00036E93 /* ScrollView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScrollView;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	41EF835B0FA5222A00036E93 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	41EF835C0FA5222A00036E93 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	41EF83660FA5226C00036E93 /* MyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 811}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 1461}";
+		};
+	};
+	41EF83670FA5226C00036E93 /* MyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 992}}";
+			sepNavSelRange = "{1381, 0}";
+			sepNavVisRange = "{0, 2428}";
+		};
+	};
+	41EF83BB0FA5305600036E93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41EF83BC0FA5305600036E93 /* UIScrollView.h */;
+		name = "UIScrollView.h: 75";
+		rLen = 0;
+		rLoc = 2881;
+		rType = 0;
+		vrLen = 3551;
+		vrLoc = 2881;
+	};
+	41EF83BC0FA5305600036E93 /* UIScrollView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIScrollView.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScrollView.h;
+		sourceTree = "<absolute>";
+	};
+	41EF83BE0FA5305600036E93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScrollViewAppDelegate.m */;
+		name = "ScrollViewAppDelegate.m: 11";
+		rLen = 21;
+		rLoc = 1433;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	41EF83BF0FA5305600036E93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	41EF83C10FA5305600036E93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScrollViewAppDelegate.h */;
+		name = "ScrollViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 1382;
+		rType = 0;
+		vrLen = 152;
+		vrLoc = 0;
+	};
+	41EF83C30FA5305600036E93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41EF83660FA5226C00036E93 /* MyViewController.h */;
+		name = "MyViewController.h: 1";
+		rLen = 0;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 57;
+		vrLoc = 0;
+	};
+}
